@@ -19,7 +19,7 @@
         <sqlite.driver.version>3.30.1</sqlite.driver.version>
         <junit.jupiter.version>5.6.0</junit.jupiter.version>
         <jstl.api.version>1.2</jstl.api.version>
-        <tomcat.version>8.5.23</tomcat.version>
+        <tomcat.version>10.0.4</tomcat.version>
     </properties>
 
     <dependencies>
